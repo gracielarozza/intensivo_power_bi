@@ -6,7 +6,7 @@ O dashboard tem como objetivo visualizar indicadores de desempenho da área de R
 
 [🔗 Acesse o dashboard criado aqui](https://app.powerbi.com/view?r=eyJrIjoiZGY4Yjk3MDAtZTQyNC00NjJlLTk5YTQtMGUzNWZhZTU1MTQyIiwidCI6ImEyODlmNTY1LTY5YzgtNDc3Zi05MWJhLTMzM2FkNGJlOWMwYSJ9)
 
-> **Observação:** O Power BI não dá suporte à árvore hierárquica na Publicação Web. Por este motivo, esse visual ficará desconfigurado no link. Para visualizar o dashboard completo, adicionei um PDF com o visual correto.
+> **Observação:** O Power BI não dá suporte à árvore hierárquica na Publicação Web. Por este motivo, esse visual ficará desconfigurado no link. Para visualizar o dashboard completo, consulte o PDF dessa pasta.
 
 ## Principais aprendizados:
 - **Criação de medidas com DAX** para cálculo de:
