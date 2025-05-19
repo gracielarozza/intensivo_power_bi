@@ -13,19 +13,20 @@ Aprender a usar o Power BI de forma prática, visual e estruturada, com foco na 
 ## Conteúdos abordados
 
 - Importação e tratamento de dados com **Power Query**
-- Criação de medidas com **DAX** (ex: `SUM`, `CALCULATE`, `%`)
+- Criação de medidas com **DAX** (ex: `SUM`, `CALCULATE`, `COUNTROWS`)
 - Construção de dashboards com:
   - Gráficos, cartões, segmentações e mapas
+  - Tooltip (dica de ferramenta com visual dedicado)
   - Formatações visuais e uso de ícones
 - Interatividade e filtros com variáveis categóricas
-- Melhores práticas de layout e visualização
+- Boas práticas de layout e visualização
 
 ## Dashboards desenvolvidos
 
 - [x] Dashboard de **Vendas**
 - [x] Dashboard de **Produção**
-- [ ] Dashboard de **Recursos Humanos**
-- [ ] Dashboard **Financeiro**
+- [x] Dashboard de **Recursos Humanos**
+- [x] Dashboard **Financeiro**
 
 Cada projeto está em uma pasta separada neste repositório com o respectivo link para visualização no Power BI Service.
 
